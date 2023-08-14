@@ -1,0 +1,8 @@
+C:\Users\sahar\source\repos\NumberGuessingGameConsole\NumberGuessingGameConsole\bin\Debug\NumberGuessingGameConsole.exe.config
+C:\Users\sahar\source\repos\NumberGuessingGameConsole\NumberGuessingGameConsole\bin\Debug\NumberGuessingGameConsole.exe
+C:\Users\sahar\source\repos\NumberGuessingGameConsole\NumberGuessingGameConsole\bin\Debug\NumberGuessingGameConsole.pdb
+C:\Users\sahar\source\repos\NumberGuessingGameConsole\NumberGuessingGameConsole\obj\Debug\NumberGuessingGameConsole.csproj.AssemblyReference.cache
+C:\Users\sahar\source\repos\NumberGuessingGameConsole\NumberGuessingGameConsole\obj\Debug\NumberGuessingGameConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahar\source\repos\NumberGuessingGameConsole\NumberGuessingGameConsole\obj\Debug\NumberGuessingGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\sahar\source\repos\NumberGuessingGameConsole\NumberGuessingGameConsole\obj\Debug\NumberGuessingGameConsole.exe
+C:\Users\sahar\source\repos\NumberGuessingGameConsole\NumberGuessingGameConsole\obj\Debug\NumberGuessingGameConsole.pdb
